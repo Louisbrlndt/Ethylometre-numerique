@@ -1,0 +1,344 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 0}, {320, 480}}",
+        "class" : "View",
+        "attributes" : {
+          "flex" : "WH",
+          "frame" : "{{110, 190}, {100, 100}}",
+          "background_color" : "RGBA(0.686275,0.501961,0.658824,1.000000)",
+          "class" : "View",
+          "name" : "background_generateur_de_calcul",
+          "uuid" : "19362BE3-DB2E-4DE7-B60F-B0D05072BC46"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{67, 53}, {200, 61}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_principal_generateur_de_calcul",
+          "flex" : "WH",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "Tap to Start",
+          "uuid" : "58C3D043-D5B4-42FB-9E20-2A3E20FC607C",
+          "class" : "Button",
+          "name" : "button_principal_generateur_de_calcul",
+          "font_size" : 41
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{131, 122}, {67, 44}}",
+        "class" : "Label",
+        "attributes" : {
+          "flex" : "WH",
+          "name" : "signe_egal",
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "3BED37A3-0DC1-4BD0-A3E1-FB28A78ECA0E",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "=",
+          "number_of_lines" : 0,
+          "font_size" : 41,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{75, 236}, {37, 50}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_1_generateur_de_calcul",
+          "flex" : "WH",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "1",
+          "uuid" : "D5B7E7B1-0977-452A-92AD-9F6CC9BEF7CE",
+          "class" : "Button",
+          "name" : "button_1_generateur_de_calcul",
+          "font_size" : 41
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{144, 236}, {37, 50}}",
+        "class" : "Button",
+        "attributes" : {
+          "flex" : "WH",
+          "action" : "button_2_generateur_de_calcul",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "2",
+          "uuid" : "36FAA58E-5305-4350-BEB7-BE8FA7BB5F1A",
+          "class" : "Button",
+          "name" : "button_2_generateur_de_calcul",
+          "font_size" : 41
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{209, 236}, {37, 50}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_3_generateur_de_calcul",
+          "flex" : "WH",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "3",
+          "uuid" : "029D83EE-F016-4C67-8324-88478495AFD7",
+          "class" : "Button",
+          "name" : "button_3_generateur_de_calcul",
+          "font_size" : 41
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{75, 294}, {37, 50}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_4_generateur_de_calcul",
+          "flex" : "WH",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "4",
+          "uuid" : "67C494D1-A0BF-494E-B41B-A72912CA65F7",
+          "class" : "Button",
+          "name" : "button_4_generateur_de_calcul",
+          "font_size" : 41
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{144, 294}, {37, 50}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_5_generateur_de_calcul",
+          "flex" : "WH",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "5",
+          "uuid" : "56A01F32-023C-4C4B-A09F-23F3412ECBF5",
+          "class" : "Button",
+          "name" : "button_5_generateur_de_calcul",
+          "font_size" : 41
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{209, 294}, {37, 50}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_6_generateur_de_calcul",
+          "flex" : "WH",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "6",
+          "uuid" : "C5EDBF01-32F3-421B-BA79-E7E11C0D4641",
+          "class" : "Button",
+          "font_bold" : false,
+          "name" : "button_6_generateur_de_calcul",
+          "font_size" : 41
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{75, 352}, {37, 52}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_7_generateur_de_calcul",
+          "flex" : "WH",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "7",
+          "uuid" : "413FCFB4-0F35-4358-A028-03830166A481",
+          "class" : "Button",
+          "name" : "button_7_generateur_de_calcul",
+          "font_size" : 41
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{144, 352}, {37, 52}}",
+        "class" : "Button",
+        "attributes" : {
+          "flex" : "WH",
+          "action" : "button_8_generateur_de_calcul",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "8",
+          "uuid" : "7706220B-1A71-4CC4-A0CA-B78DD16E3C21",
+          "class" : "Button",
+          "name" : "button_8_generateur_de_calcul",
+          "font_size" : 41
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{209, 352}, {37, 52}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_9_generateur_de_calcul",
+          "flex" : "WH",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "9",
+          "uuid" : "53BEF628-5E57-4B07-AE09-94EE8D57647F",
+          "class" : "Button",
+          "name" : "button_9_generateur_de_calcul",
+          "font_size" : 41
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{144, 412}, {37, 52}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_0_generateur_de_calcul",
+          "flex" : "WH",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "0",
+          "uuid" : "748CB1E3-7E77-481C-A733-A87276BB9482",
+          "class" : "Button",
+          "name" : "button_0_generateur_de_calcul",
+          "font_size" : 41
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{75, 412}, {37, 52}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_negatif_generateur_de_calcul",
+          "flex" : "WH",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "-",
+          "uuid" : "7D12F01C-0E7B-49E2-890A-D51820767DBC",
+          "class" : "Button",
+          "name" : "button_negatif_generateur_de_calcul",
+          "font_size" : 41
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{209, 412}, {37, 52}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_delete_generateur_de_calcul",
+          "flex" : "WH",
+          "font_size" : 15,
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "",
+          "uuid" : "E59F45F5-4953-4762-8F4D-68ECA133072C",
+          "class" : "Button",
+          "name" : "button_delete_generateur_de_calcul",
+          "image_name" : "iob:arrow_return_left_24"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{251, 174}, {53, 47}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_validation_generateur_de_calcul",
+          "flex" : "WH",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "OK",
+          "uuid" : "6C5F14BD-9949-4CF4-AEE5-2E613536C0B8",
+          "class" : "Button",
+          "name" : "button_validation_generateur_de_calcul",
+          "font_size" : 22
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{93, 174}, {150, 47}}",
+        "class" : "Label",
+        "attributes" : {
+          "uuid" : "88FD0BAA-D7DD-4883-95CE-F39BDD78C617",
+          "flex" : "WH",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "number_of_lines" : 0,
+          "alignment" : "center",
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "text" : "",
+          "font_name" : "<System>",
+          "class" : "Label",
+          "name" : "resultat_generateur_de_calcul",
+          "font_size" : 41
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {320, 480}}",
+    "class" : "View",
+    "attributes" : {
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "enabled" : true,
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "name" : "",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 0}, {320, 480}}",
+        "class" : "View",
+        "attributes" : {
+          "flex" : "WH",
+          "frame" : "{{110, 190}, {100, 100}}",
+          "background_color" : "RGBA(0.411765,0.474510,0.592157,1.000000)",
+          "class" : "View",
+          "name" : "classe_calculatrice",
+          "uuid" : "A7E56EA6-ECB3-4C5F-A384-BF41ED01884D"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{43, 106}, {235, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "flex" : "WH",
+          "name" : "label_classe_calculatrice",
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "uuid" : "0C6FCE8E-B099-40B3-9499-548AA7015237",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Qu’avez vous bu ?",
+          "font_size" : 29,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{98, 188}, {125, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_bieres_calculatrice",
+          "flex" : "WH",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "Bières",
+          "uuid" : "DF6BD658-5B84-45C8-9BEF-6732E23B1E90",
+          "class" : "Button",
+          "name" : "button_bieres_calculatrice",
+          "font_size" : 29
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{97, 262}, {126, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_spiritueux_calculatrice",
+          "flex" : "WH",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "Spiritueux",
+          "uuid" : "E8E6926C-8F51-44B1-A523-1509431E7713",
+          "class" : "Button",
+          "name" : "button_spiritueux_calculatrice",
+          "font_size" : 29
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{98, 331}, {126, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_vins_calculatrice",
+          "flex" : "WH",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "Vins",
+          "uuid" : "9EB8B041-95B0-47D4-9BB7-47D7213ECD49",
+          "class" : "Button",
+          "name" : "button_vins_calculatrice",
+          "font_size" : 29
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{260, 10}, {50, 41}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_soundcloud_calculatrice",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "",
+          "uuid" : "9EBC8324-2DCF-41D0-96BD-EDCEA2472CFB",
+          "class" : "Button",
+          "name" : "button_soundcloud_calculatrice",
+          "font_size" : 15
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {320, 480}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

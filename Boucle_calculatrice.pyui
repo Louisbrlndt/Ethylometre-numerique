@@ -1,0 +1,129 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 0}, {320, 480}}",
+        "class" : "View",
+        "attributes" : {
+          "flex" : "WH",
+          "frame" : "{{110, 190}, {100, 100}}",
+          "background_color" : "RGBA(0.411765,0.474510,0.592157,1.000000)",
+          "class" : "View",
+          "name" : "view_boucle_calculatrice",
+          "uuid" : "23635AEC-6DA9-4BE6-AD32-DAC4C6EBC13A"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{35, 99}, {256, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "flex" : "WH",
+          "name" : "label1_boucle_calculatrice",
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "7125591C-DB08-41EB-89F9-4A27D6E8B0C1",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Avez-vous bu autre",
+          "number_of_lines" : 2,
+          "font_size" : 29,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{79, 130}, {171, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "flex" : "WH",
+          "name" : "label2_boucle_calculatrice",
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "50F47E9D-D851-4B1C-8D0D-6E3086F8E4EB",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "chose ?",
+          "font_size" : 29,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{122, 207}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_oui_boucle_calculatrice",
+          "flex" : "WH",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "Oui",
+          "uuid" : "4190F599-D9A5-4979-8272-43D90C92D478",
+          "class" : "Button",
+          "name" : "button_oui_boucle_calculatrice",
+          "font_size" : 29
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{122, 263}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_non_boucle_calculatrice",
+          "flex" : "WH",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "Non",
+          "uuid" : "FB5AC0F1-BFCC-40B2-8388-0990634C02F2",
+          "class" : "Button",
+          "name" : "button_non_boucle_calculatrice",
+          "font_size" : 29
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{260, 10}, {50, 41}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_soundcloud_calculatrice",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "",
+          "uuid" : "25E35016-C3D2-44DA-97AF-D2EA53088837",
+          "class" : "Button",
+          "name" : "button_soundcloud_calculatrice",
+          "font_size" : 15
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {320, 480}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 0}, {320, 480}}",
+        "class" : "View",
+        "attributes" : {
+          "frame" : "{{110, 190}, {100, 100}}",
+          "background_color" : "RGBA(0.411765,0.474510,0.592157,1.000000)",
+          "class" : "View",
+          "name" : "view_categories_vins",
+          "uuid" : "B3FE2662-B262-41A8-8DF1-2B03206FF583"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{61, 37}, {200, 77}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "label_categories_vins",
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "uuid" : "C07952BB-AA1E-4601-86AE-BCA1BC199CF7",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "Vins",
+          "font_size" : 45,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{61, 136}, {200, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_1_categories_vins",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "Blanc",
+          "uuid" : "1722394E-6333-4F11-BCA2-8F60BE895B30",
+          "class" : "Button",
+          "name" : "button_1_categories_vins",
+          "font_size" : 29
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{61, 196}, {200, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_2_categories_vins",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "Champagne",
+          "uuid" : "1780637C-023F-4644-BE99-E1AC922A1C30",
+          "class" : "Button",
+          "name" : "button_2_categories_vins",
+          "font_size" : 29
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{61, 261}, {200, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_3_categories_vins",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "Rosé",
+          "uuid" : "F0E6FC27-B8EB-4B37-A55C-CCBC2C7282C8",
+          "class" : "Button",
+          "name" : "button_3_categories_vins",
+          "font_size" : 29
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{61, 322}, {200, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_4_categories_vins",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "Rouge",
+          "uuid" : "22831DC0-E203-4444-A880-52465DA793AE",
+          "class" : "Button",
+          "name" : "button_4_categories_vins",
+          "font_size" : 29
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{260, 10}, {50, 41}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_soundcloud_calculatrice",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "",
+          "uuid" : "D2472E31-640A-4F2E-A276-160351D30BDC",
+          "class" : "Button",
+          "name" : "button_soundcloud_calculatrice",
+          "font_size" : 15
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {320, 480}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]

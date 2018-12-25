@@ -1,0 +1,166 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 0}, {320, 480}}",
+        "class" : "View",
+        "attributes" : {
+          "flex" : "WH",
+          "frame" : "{{110, 190}, {100, 100}}",
+          "background_color" : "RGBA(0.411765,0.474510,0.592157,1.000000)",
+          "class" : "View",
+          "name" : "view_categories_spiritueux",
+          "uuid" : "BA0B1D1E-ED04-4283-B7BA-47561226517B"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{61, 416}, {200, 34}}",
+        "class" : "Slider",
+        "attributes" : {
+          "flex" : "WH",
+          "action" : "slider_categories_spiritueux",
+          "continuous" : true,
+          "frame" : "{{60, 223}, {200, 34}}",
+          "tint_color" : "RGBA(1.000000,0.686275,0.894118,1.000000)",
+          "uuid" : "3652CDA3-9217-4BD1-B932-AE65BF8D6D3C",
+          "class" : "Slider",
+          "value" : 0,
+          "name" : "slider_categories_spiritueux"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{61, 136}, {200, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_1_categories_spiritueux",
+          "flex" : "WH",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "Gin",
+          "uuid" : "4CB07F1B-9C6D-41A7-B22D-DA22810806FA",
+          "class" : "Button",
+          "name" : "button_1_categories_spiritueux",
+          "font_size" : 29
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{61, 196}, {200, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_2_categories_spiritueux",
+          "flex" : "WH",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "Liqueurs",
+          "uuid" : "9A945293-F99A-4D4B-821E-96D8A1B37D41",
+          "class" : "Button",
+          "name" : "button_2_categories_spiritueux",
+          "font_size" : 29
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{61, 261}, {200, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "flex" : "WH",
+          "action" : "button_3_categories_spiritueux",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "Meiguilujiu",
+          "uuid" : "D0371A0E-1643-4607-9BE5-CA6E8B8BEC97",
+          "class" : "Button",
+          "name" : "button_3_categories_spiritueux",
+          "font_size" : 29
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{61, 323}, {200, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_4_categories_spiritueux",
+          "flex" : "WH",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "Rhum",
+          "uuid" : "010A5F64-9105-4326-A770-9D5ADFB930D5",
+          "class" : "Button",
+          "name" : "button_4_categories_spiritueux",
+          "font_size" : 29
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{61, 37}, {200, 77}}",
+        "class" : "Label",
+        "attributes" : {
+          "flex" : "WH",
+          "name" : "label_categories_spiritueux",
+          "text_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "frame" : "{{85, 224}, {150, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "uuid" : "01C6F5AE-58FE-4C4E-8CF5-283E2EBE4E42",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "Spiritueux",
+          "font_size" : 45,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{260, 10}, {50, 41}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "button_soundcloud_calculatrice",
+          "frame" : "{{120, 224}, {80, 32}}",
+          "tint_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+          "title" : "",
+          "uuid" : "FD179CA2-B750-435D-A8A4-59DEEDB28216",
+          "class" : "Button",
+          "name" : "button_soundcloud_calculatrice",
+          "font_size" : 15
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {320, 480}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
